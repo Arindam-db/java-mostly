@@ -3,7 +3,7 @@ package HelloApp;
 /**
  * Main
  */
-public class Main {
+public class variables {
 
     public static void main(String[] args) {
 
